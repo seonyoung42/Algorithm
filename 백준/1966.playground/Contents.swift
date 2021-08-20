@@ -16,12 +16,13 @@ for _ in 0..<num {
     let array = secondLine.components(separatedBy: " ")
     let thirdArray = thirdLine.components(separatedBy: " ").enumerated()
     
+    // enumerated : Array의 index 와 value 를 반환하는 메서드
+    
+    
     let a = Int(array[0]) ?? 0
     let b = Int(array[1]) ?? 0
     var count = 1
     
-
-    while 
     
     
     
@@ -43,11 +44,8 @@ for _ in 0..<num {
 //        }
 //    }
     
-    
-    
-    
 
-    print(count + same - b + 1)
+//    print(count)
 }
 
 
