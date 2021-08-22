@@ -24,6 +24,7 @@ for _ in 0..<testCase {
             leftStack.append(String(testArray[i]))
         }
     }
+    // popLast() -> 배열에서 마지막 원소를 제거하고 해당 원소를 가져옴
 
     leftStack.append(contentsOf: rightStack.reversed())
     for k in 0..<leftStack.count {
