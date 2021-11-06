@@ -8,15 +8,15 @@ for _ in 0..<testCase {
     let line = readLine()!
 
     if line == "L" {
-        if letters.isEmpty == false {
+        if !letters.isEmpty {
             rightLetters.append(letters.popLast()!)
         }
     } else if line == "D" {
-        if rightLetters.isEmpty == false {
+        if !rightLetters.isEmpty {
             letters.append(rightLetters.popLast()!)
         }
     } else if line == "B" {
-        if letters.isEmpty == false {
+        if !letters.isEmpty {
             letters.removeLast()
         }
     } else {
