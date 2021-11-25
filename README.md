@@ -7,3 +7,5 @@
 + [1406](https://velog.io/@sun02/Swift-1406-에디터)
 + [1158 - 요세푸스](https://velog.io/@sun02/Swift-백준-1158-요세푸스-순열)
 + [10866 - 덱](https://velog.io/@sun02/Swift-백준-10866-덱)
++ [17413 - 단어뒤집기](https://velog.io/@sun02/Swift-백준-17413-단어뒤집기-2)
++ [10799 - 쇠막대기](https://velog.io/@sun02/Swift-백준-10799-쇠막대기)
