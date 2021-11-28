@@ -9,3 +9,5 @@
 + [10866 - 덱](https://velog.io/@sun02/Swift-백준-10866-덱)
 + [17413 - 단어뒤집기](https://velog.io/@sun02/Swift-백준-17413-단어뒤집기-2)
 + [10799 - 쇠막대기](https://velog.io/@sun02/Swift-백준-10799-쇠막대기)
++ [17298 - 오큰수](https://velog.io/@sun02/Swift-백준-17298-오큰수)
++ [17299 - 오등큰수](https://velog.io/@sun02/Swift-백준-17299-오등큰수)
