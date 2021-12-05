@@ -37,3 +37,8 @@
 |1929|[소수 구하기](https://www.acmicpc.net/problem/1929)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1929.playground/Contents.swift)||
 |6588|[골드바흐의 추측](https://www.acmicpc.net/problem/6588)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/6588.playground/Contents.swift)|[6588 - 골드바흐의 추측](https://velog.io/@sun02/Swift-백준-6588-골드바흐의-추측)|
 |10872|[팩토리얼](https://www.acmicpc.net/problem/10872)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10872.playground/Contents.swift)||
+|1676|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1676.playground/Contents.swift)||
+|2004|[조합 0의 개수](https://www.acmicpc.net/problem/2004)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2004.playground/Contents.swift)|[2004 - 조합 0의 개수](https://velog.io/@sun02/Swift-백준-2004-조합-0의-개수)|
+|9613|[GCD 합](https://www.acmicpc.net/problem/9613)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/9613.playground/Contents.swift)||
+|17087|[숨바꼭질 6](https://www.acmicpc.net/problem/17087)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/17087.playground/Contents.swift)||
+|17103|[골드바흐 파티션](https://www.acmicpc.net/problem/17103)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/17103.playground/Contents.swift)||
