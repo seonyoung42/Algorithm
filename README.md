@@ -3,7 +3,7 @@
 # 백준
 ## 자료구조
 
-|자료구조|Problems|Swift|Velog-posts|
+|No.|Problems|Swift|Velog-posts|
 |------|---|---|-----|
 |10828|[스택](https://www.acmicpc.net/problem/10828)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10828.playground/Contents.swift)||
 |9093|[단어뒤집기](https://www.acmicpc.net/problem/9093)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/9093.playground/Contents.swift)|[9093 - 단어뒤집기](https://velog.io/@sun02/Swift-백준-9093-단어뒤집기)|
@@ -28,7 +28,7 @@
 |11656|[접미사 배열](https://www.acmicpc.net/problem/11656)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11656.playground/Contents.swift)||
 
 ## 수학
-|수학|Problems|Swift|Velog-posts|
+|No.|Problems|Swift|Velog-posts|
 |------|---|---|-----|
 |10430|[나머지](https://www.acmicpc.net/problem/10430)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10430.playground/Contents.swift)||
 |2609|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2609.playground/Contents.swift)|[2609 - 최대공약수와 최소공배수](https://velog.io/@sun02/Swift-백준-2609-최대공약수와-최소공배수)|
@@ -42,3 +42,7 @@
 |9613|[GCD 합](https://www.acmicpc.net/problem/9613)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/9613.playground/Contents.swift)||
 |17087|[숨바꼭질 6](https://www.acmicpc.net/problem/17087)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/17087.playground/Contents.swift)||
 |17103|[골드바흐 파티션](https://www.acmicpc.net/problem/17103)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/17103.playground/Contents.swift)||
+|11005|[진법변환2](https://www.acmicpc.net/problem/11005)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11005.playground/Contents.swift)||
+|2745|[진법변환](https://www.acmicpc.net/problem/2745)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2745.playground/Contents.swift)||
+|11653|[소인수분해](https://www.acmicpc.net/problem/11653)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11653.playground/Contents.swift)||
+
