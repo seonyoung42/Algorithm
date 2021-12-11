@@ -1,8 +1,10 @@
 # Algorithm
 
-# 백준
-## 자료구조
+## 백준
 
+<details>
+<summary>자료구조</summary>
+  
 |No.|Problems|Swift|Velog-posts|
 |------|---|---|-----|
 |10828|[스택](https://www.acmicpc.net/problem/10828)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10828.playground/Contents.swift)||
@@ -27,7 +29,11 @@
 |10824|[네 수](https://www.acmicpc.net/problem/10824)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10824.playground/Contents.swift)||
 |11656|[접미사 배열](https://www.acmicpc.net/problem/11656)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11656.playground/Contents.swift)||
 
-## 수학
+</details>
+
+<details>
+<summary>수학</summary>
+
 |No.|Problems|Swift|Velog-posts|
 |------|---|---|-----|
 |10430|[나머지](https://www.acmicpc.net/problem/10430)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10430.playground/Contents.swift)||
@@ -46,3 +52,4 @@
 |2745|[진법변환](https://www.acmicpc.net/problem/2745)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2745.playground/Contents.swift)||
 |11653|[소인수분해](https://www.acmicpc.net/problem/11653)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11653.playground/Contents.swift)||
 
+</details>
