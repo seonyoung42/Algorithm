@@ -4,7 +4,7 @@
 
 <details>
 <summary>자료구조</summary>
-  
+
 |No.|Problems|Swift|Velog-posts|
 |------|---|---|-----|
 |10828|[스택](https://www.acmicpc.net/problem/10828)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10828.playground/Contents.swift)||
@@ -52,4 +52,20 @@
 |2745|[진법변환](https://www.acmicpc.net/problem/2745)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2745.playground/Contents.swift)||
 |11653|[소인수분해](https://www.acmicpc.net/problem/11653)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11653.playground/Contents.swift)||
 
+</details>
+
+<details>
+<summary>Dynamic Programming</summary>
+  
+|No.|Problems|Swift|Velog-posts|
+|------|---|---|-----|
+|1463|[1로 만들기](https://www.acmicpc.net/problem/1463)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1463.playground/Contents.swift)||
+|11726|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11726.playground/Contents.swift)||
+|11727|[2xn 타일링2](https://www.acmicpc.net/problem/11727)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11727.playground/Contents.swift)||
+|9095|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/9095.playground/Contents.swift)||
+
+
+
+
+  
 </details>
