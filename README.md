@@ -63,6 +63,10 @@
 |11726|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11726.playground/Contents.swift)||
 |11727|[2xn 타일링2](https://www.acmicpc.net/problem/11727)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11727.playground/Contents.swift)||
 |9095|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/9095.playground/Contents.swift)||
+|11052|[카드 구매하기](https://www.acmicpc.net/problem/11052)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11052.playground/Contents.swift)||
+|16914|[카드 구매하기2](https://www.acmicpc.net/problem/16914)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/16914.playground/Contents.swift)||
+|15990|[1,2,3 더하기5](https://www.acmicpc.net/problem/15990)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/15990.playground/Contents.swift)||
+|10844|[쉬운 계단수](https://www.acmicpc.net/problem/10844)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10844.playground/Contents.swift)|[10844-쉬운 계단수](https://velog.io/@sun02/Swift-10844-백준-쉬운-계단-수)|
 
 
 
