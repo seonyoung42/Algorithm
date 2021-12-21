@@ -67,9 +67,11 @@
 |16914|[카드 구매하기2](https://www.acmicpc.net/problem/16914)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/16914.playground/Contents.swift)||
 |15990|[1,2,3 더하기5](https://www.acmicpc.net/problem/15990)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/15990.playground/Contents.swift)||
 |10844|[쉬운 계단수](https://www.acmicpc.net/problem/10844)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10844.playground/Contents.swift)|[10844-쉬운 계단수](https://velog.io/@sun02/Swift-10844-백준-쉬운-계단-수)|
-
-
-
+|2193|[이친수](https://www.acmicpc.net/problem/2193)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2193.playground/Contents.swift)||
+|11053|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11053.playground/Contents.swift)||
+|14002|[가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/14002.playground/Contents.swift)||
+|1912|[연속합](https://www.acmicpc.net/problem/1912)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1912.playground/Contents.swift)||
+|1699|[제곱수의 합](https://www.acmicpc.net/problem/1699)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1699.playground/Contents.swift)||
 
   
 </details>
