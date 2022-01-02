@@ -59,7 +59,7 @@
   
 |No.|Problems|Swift|Velog-posts|
 |------|---|---|-----|
-|1463|[1로 만들기](https://www.acmicpc.net/problem/1463)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1463.playground/Contents.swift)||
+|1463|[1로 만들기](https://www.acmicpc.net/problem/1463)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1463.playground/Contents.swift)|[1463-1로 만들기](https://velog.io/@sun02/Swift-백준-1463-1로-만들기)|
 |11726|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11726.playground/Contents.swift)||
 |11727|[2xn 타일링2](https://www.acmicpc.net/problem/11727)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11727.playground/Contents.swift)||
 |9095|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/9095.playground/Contents.swift)||
@@ -68,17 +68,17 @@
 |15990|[1,2,3 더하기5](https://www.acmicpc.net/problem/15990)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/15990.playground/Contents.swift)||
 |10844|[쉬운 계단수](https://www.acmicpc.net/problem/10844)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10844.playground/Contents.swift)|[10844-쉬운 계단수](https://velog.io/@sun02/Swift-10844-백준-쉬운-계단-수)|
 |2193|[이친수](https://www.acmicpc.net/problem/2193)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2193.playground/Contents.swift)||
-|11053|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11053.playground/Contents.swift)||
+|11053|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11053.playground/Contents.swift)|[11053 - 가장 긴 증가하는 부분 수열](https://velog.io/@sun02/Swift-백준-11053-가장-긴-증가하는-부분-수열)|
 |14002|[가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/14002.playground/Contents.swift)||
 |1912|[연속합](https://www.acmicpc.net/problem/1912)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1912.playground/Contents.swift)||
 |1699|[제곱수의 합](https://www.acmicpc.net/problem/1699)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1699.playground/Contents.swift)||
-|2225|[합분해](https://www.acmicpc.net/problem/2225)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2225.playground/Contents.swift)||
+|2225|[합분해](https://www.acmicpc.net/problem/2225)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2225.playground/Contents.swift)|[2225-합분해](https://velog.io/@sun02/Swift-백준-2225-합분해)|
 |15988|[1,2,3 더하기 3](https://www.acmicpc.net/problem/15988)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/15988.playground/Contents.swift)||
-|1149|[R,G,B 거리](https://www.acmicpc.net/problem/1149)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1149.playground/Contents.swift)||
+|1149|[R,G,B 거리](https://www.acmicpc.net/problem/1149)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1149.playground/Contents.swift)|[1149-RGB거리](https://velog.io/@sun02/Swift-백준-1149-RGB거리)|
 |1309|[동물원](https://www.acmicpc.net/problem/1309)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1309.playground/Contents.swift)||
-|11057|[오르막 수](https://www.acmicpc.net/problem/11057)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11057.playground/Contents.swift)||
-|9465|[스티커](https://www.acmicpc.net/problem/9465)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/9465.playground/Contents.swift)||
-|2156|[포도주 시식](https://www.acmicpc.net/problem/2156)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2156.playground/Contents.swift)||
+|11057|[오르막 수](https://www.acmicpc.net/problem/11057)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11057.playground/Contents.swift)|[11057-오르막수](https://velog.io/@sun02/Swift-백준-11057-오르막-수)|
+|9465|[스티커](https://www.acmicpc.net/problem/9465)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/9465.playground/Contents.swift)|[9465-스티커](https://velog.io/@sun02/Swift)|
+|2156|[포도주 시식](https://www.acmicpc.net/problem/2156)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2156.playground/Contents.swift)|[2156-포도주 시식](https://velog.io/@sun02/백준-2156-Swift-포도주-시식)|
 |1932|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1932.playground/Contents.swift)||
   
 </details>
