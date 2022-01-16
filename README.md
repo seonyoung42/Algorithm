@@ -82,3 +82,18 @@
 |1932|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1932.playground/Contents.swift)||
   
 </details>
+
+<details>
+<summary>Brute Force</summary>
+  
+|No.|Problems|Swift|Velog-posts|
+|------|---|---|-----|
+|2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2309.playground/Contents.swift)||
+|3085|[사탕 게임](https://www.acmicpc.net/problem/3085)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/3085.playground/Contents.swift)|[[Swift] 백준 3085 - 사탕게임](https://velog.io/@sun02/Swift-백준-3085-사탕게임)|
+|1476|[날짜 계산](https://www.acmicpc.net/problem/1476)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1476.playground/Contents.swift)||
+  |1107|[리모컨](https://www.acmicpc.net/problem/1107)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1107.playground/Contents.swift)|[[Swift] 백준 1107 - 리모컨](https://velog.io/@sun02/Swift-백준-1107-리모컨)|
+  |14500|[테트로미노](https://www.acmicpc.net/problem/14500)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/14500.playground/Contents.swift)||
+  |6064|[카잉 달력](https://www.acmicpc.net/problem/6064)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/6064.playground/Contents.swift)||
+  |1748|[수 이어 쓰기1](https://www.acmicpc.net/problem/1748)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1748.playground/Contents.swift)||
+  |9095|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/9095.playground/Contents.swift)||
+</details>
