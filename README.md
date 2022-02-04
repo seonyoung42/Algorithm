@@ -96,4 +96,10 @@
   |6064|[카잉 달력](https://www.acmicpc.net/problem/6064)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/6064.playground/Contents.swift)||
   |1748|[수 이어 쓰기1](https://www.acmicpc.net/problem/1748)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1748.playground/Contents.swift)||
   |9095|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/9095.playground/Contents.swift)||
+  |1759|[암호만들기](https://www.acmicpc.net/problem/1759)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1759.playground/Contents.swift)||
+  |14501|[퇴사](https://www.acmicpc.net/problem/14501)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/14501.playground/Contents.swift)||
+  |14889|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/14889.playground/Contents.swift)||
+  |15661|[링크와 스타트](https://www.acmicpc.net/problem/15661)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/15661.playground/Contents.swift)||
+  |2529|[부등호](https://www.acmicpc.net/problem/2529)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/2529.playground/Contents.swift)||
+  |1248|[맞춰봐](https://www.acmicpc.net/problem/1248)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1248.playground/Contents.swift)||
 </details>
