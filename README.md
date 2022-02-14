@@ -108,6 +108,12 @@
 |15664|[N과 M(10)](https://www.acmicpc.net/problem/15664)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/15664.playground/Contents.swift)||
 |15665|[N과 M(11)](https://www.acmicpc.net/problem/15665)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/15665.playground/Contents.swift)||
 |15666|[N과 M(12)](https://www.acmicpc.net/problem/15666)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/15666.playground/Contents.swift)||
+|10972|[다음 순열](https://www.acmicpc.net/problem/10972)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10972.playground/Contents.swift)||
+|10973|[이전 순열](https://www.acmicpc.net/problem/10973)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10973.playground/Contents.swift)||
+|10974|[모든 순열](https://www.acmicpc.net/problem/10974)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10974.playground/Contents.swift)||
+|10819|[차이를 최대로](https://www.acmicpc.net/problem/10819)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10819.playground/Contents.swift)||
+|10971|[외판원 순회 2](https://www.acmicpc.net/problem/10971)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/10971.playground/Contents.swift)||
+|6603|[로또](https://www.acmicpc.net/problem/6603)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/6603.playground/Contents.swift)||
 |1759|[암호만들기](https://www.acmicpc.net/problem/1759)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1759.playground/Contents.swift)||
 |14501|[퇴사](https://www.acmicpc.net/problem/14501)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/14501.playground/Contents.swift)||
 |14889|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/14889.playground/Contents.swift)||
