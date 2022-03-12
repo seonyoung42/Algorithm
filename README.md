@@ -57,6 +57,7 @@
 <details>
 <summary>Dynamic Programming</summary>
   
+  
 |No.|Problems|Swift|Velog-posts|
 |------|---|---|-----|
 |1463|[1로 만들기](https://www.acmicpc.net/problem/1463)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1463.playground/Contents.swift)|[1463-1로 만들기](https://velog.io/@sun02/Swift-백준-1463-1로-만들기)|
@@ -126,7 +127,7 @@
 <summary>Graph</summary>
 
 |No.|Problems|Swift|Velog-posts|
-|------|---|---|-----|
+|------|---|---|------|
 |13023|[ABCDE](https://www.acmicpc.net/problem/13023)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/13023.playground/Contents.swift)||
 |1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1260.playground/Contents.swift)||
 |11724|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11724.playground/Contents.swift)||
@@ -139,4 +140,15 @@
 
 </details>
 
+<details>
+<summary>BFS</summary>
+  
+|No.|Problems|Swift|Velog-posts|
+|------|---|---|-----|
+|1697|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1697.playground/Contents.swift)|||
+|13913|[숨바꼭질 4](https://www.acmicpc.net/problem/13913)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/13913.playground/Contents.swift)||
+|14226|[이모티콘](https://www.acmicpc.net/problem/14226)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/14226.playground/Contents.swift)||
+|13549|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/13549.playground/Contents.swift)||
+|1261|[알고스팟](https://www.acmicpc.net/problem/1261)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1261.playground/Contents.swift)||
 
+</details>
