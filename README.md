@@ -152,3 +152,15 @@
 |1261|[알고스팟](https://www.acmicpc.net/problem/1261)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1261.playground/Contents.swift)||
 
 </details>
+
+<details>
+<summary>Tree</summary>
+  
+|No.|Problems|Swift|Velog-posts|
+|------|---|---|-----|
+|1991|[트리순회](https://www.acmicpc.net/problem/1991)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1991.playground/Contents.swift)|||
+|11725|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/11725.playground/Contents.swift)|||
+|1167|[트리의 지름](https://www.acmicpc.net/problem/1167)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1167.playground/Contents.swift)|||
+|1967|[트리의 지름](https://www.acmicpc.net/problem/1967)|[answer](https://github.com/seonyoung42/Algorithm/blob/master/백준/1967.playground/Contents.swift)|||
+
+</details>
